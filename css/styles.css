@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Poppins", serif;
+    line-height: 2;
+}
+
+.hr-padding {
+    border-style: none;
+    border-top-style: dotted;
+    width:3%;
+    border-color: rgb(213, 211, 211);
+    border-width: 7px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #FAE3D9;
+}
+
+h2 {
+    font-size: 250%;
+    color: #79c2c4;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #79c2c4;
+}
+
+.pro-h2 {
+    color: #FAE3D9;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #FFB6B9;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 350px;
+}
+
+.middle-container {
+    background-color: #FAE3D9;
+    position: relative;
+    padding-bottom: 10px;
+    padding-top: 100px;
+}
+
+.bottom-container {
+    background-color: #BBDED6;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 500px;
+    bottom: 35=00px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 550px;
+    top: 100px;
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0;
+    left: 35vw;
+}
+
+.profile p {
+    width: 40%;
+    margin: auto auto 30px auto;
+}
+
+.profile img {
+    width: 10%;
+    padding-top: 30px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.developer-img {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.mushroom-img {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.paint-palette-img {
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+}
+
+.cooking-img {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    padding-bottom: 30px;
+}
+
+.contact-me .address {
+    margin-bottom: 50px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #79c2c4;
+    padding: 11px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #BBDED6;
+    text-decoration: none;
+  }
+
+.footer-link {
+    text-decoration: none;
+    color: #11999E;
+    margin: 15px;
+    font-size: 100%;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 10px 0;
+}
